@@ -72,6 +72,8 @@ Enables management to see which products and categories drive the bulk of revenu
 Quantifies revenue leakage due to cancellations and supports initiatives to improve fulfillment, returns handling, or customer communication.
 
 Helps track quarter‑wise performance so leaders can evaluate the effect of campaigns, sale events, and operational changes on revenue and cancellation behavior.
+
+https://github.com/devkumar90/E.com-Express_Dashboard/blob/main/Screenshot%20Visualization.png
 ​
 
 Screenshots / demo
