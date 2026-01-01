@@ -73,10 +73,8 @@ Quantifies revenue leakage due to cancellations and supports initiatives to impr
 
 Helps track quarter‑wise performance so leaders can evaluate the effect of campaigns, sale events, and operational changes on revenue and cancellation behavior.
 
-https://github.com/devkumar90/E.com-Express_Dashboard/blob/main/Screenshot%20Visualization.png
-​
 
 Screenshots / demo
-Primary dashboard view:
+Primary dashboard view:https://github.com/devkumar90/E.com-Express_Dashboard/blob/main/Screenshot%20Visualization.png
 
 ./media/EcomExpress-Sales-Dashboard.png (screenshot showing KPI cards on the left, product/state/category bar charts in the center and top‑right, and quarterly revenue line chart at the bottom
