@@ -75,6 +75,4 @@ Helps track quarter‑wise performance so leaders can evaluate the effect of cam
 
 
 Screenshots / demo
-Primary dashboard view:https://github.com/devkumar90/E.com-Express_Dashboard/blob/main/Screenshot%20Visualization.png
-
-./media/EcomExpress-Sales-Dashboard.png (screenshot showing KPI cards on the left, product/state/category bar charts in the center and top‑right, and quarterly revenue line chart at the bottom
+[Dashboard Preview](https://github.com/devkumar90/E.com-Express_Dashboard/blob/main/Screenshot%20Visualization.png)
