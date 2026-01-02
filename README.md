@@ -75,4 +75,5 @@ Helps track quarter‑wise performance so leaders can evaluate the effect of cam
 
 
 Screenshots / demo
+Show what the dashboard looks like. - [Alt text](https://github.com/username/repo/assets/image.png)
 [Dashboard Preview](https://github.com/devkumar90/E.com-Express_Dashboard/blob/main/Screenshot%20Visualization.png)
